@@ -1,0 +1,139 @@
+form {
+    height: 1220px;
+    width: 820px;
+    border: 2px dashed black;
+    margin: 0 auto;
+    background-image: linear-gradient(red, blue, green);
+    color: whitesmoke;
+    font-size: 22px;
+    font-family: sans-serif;
+
+}
+
+
+
+
+h2 {
+    text-align: center;
+    color: blue;
+    text-decoration-line: underline;
+
+
+
+}
+
+input {
+    margin: 5px;
+
+}
+
+.lbl {
+    margin-left: 20px;
+}
+
+#first {
+    margin: 25px 0px 0px 90px;
+    height: 30px;
+    width: 30%;
+}
+
+#last {
+    margin: 25px 0px 0px 99px;
+    height: 30px;
+    width: 30%;
+}
+
+#mail {
+    margin: 25px 0px 0px 143px;
+    height: 30px;
+    width: 30%;
+}
+
+
+
+#Mob {
+    margin: 25px 0px 0px 50px;
+    height: 30px;
+    width: 30%;
+}
+
+
+#M {
+    margin: 10px 0px 0px 125px;
+}
+
+#date {
+    margin: 20px 0px 0px 5px;
+}
+
+textarea {
+    margin: 15px 0px 0px 120px;
+    height: 80px;
+    width: 262px;
+}
+
+
+#city {
+    margin: 25px 0px 0px 165px;
+    height: 30px;
+    width: 30%;
+}
+
+#pin {
+    margin: 25px 0px 0px 120px;
+    height: 30px;
+    width: 30%;
+}
+
+#sat {
+    margin: 25px 0px 0px 155px;
+    height: 30px;
+    width: 30%;
+}
+
+#coun {
+    margin: 25px 0px 0px 130px;
+    height: 30px;
+    width: 30%;
+}
+
+#hob {
+    margin: 25px 0px 0px 128px;
+
+
+}
+
+#ob {
+    margin: 25px 0px 0px 245px;
+
+
+}
+
+#ten {
+    margin: 25px 0px 0px 80px;
+
+
+}
+
+.left {
+    margin-left: 245px;
+}
+
+#rad {
+    margin: 25px 0px 0px 30px;
+}
+
+.right {
+    margin-left: 248px;
+}
+
+
+div {
+    text-align: center;
+
+}
+
+.btn {
+    height: 40px;
+    width: 20%;
+}
